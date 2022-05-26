@@ -4,7 +4,7 @@ We propose tmVar 3.0: an improved variant recognition and normalization system. 
 
 # tmVar 3.0 download from FTP
 
-	https://ftp.ncbi.nlm.nih.gov/pub/lu/tmVar3
+[NCBI FTP](https://ftp.ncbi.nlm.nih.gov/pub/lu/tmVar3)
 
 # PubTator API to access tmVar 3.0
 
