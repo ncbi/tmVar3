@@ -11,3 +11,11 @@ We propose tmVar 3.0: an improved variant recognition and normalization system. 
 # PubTator API to access tmVar 3.0
 
 We host a RESTful API (https://www.ncbi.nlm.nih.gov/research/pubtator/api.html) that users can access the tmVar 3.0 results in PubMed/PMC. The "Process Raw Text" section of the API page also shows the way to submit a raw text for online processing. We provide the sample code in Java, Python and Perl to assist the users to quickly familiar with the API service.
+
+# Acknowledgments
+
+This research was supported by the Intramural Research Program of the National Library of Medicine (NLM), National Institutes of Health.
+
+# Disclaimer
+
+This tool shows the results of research conducted in the Computational Biology Branch, NCBI. The information produced on this website is not intended for direct diagnostic use or medical decision-making without review and oversight by a clinical professional. Individuals should not change their health behavior solely on the basis of information produced on this website. NIH does not independently verify the validity or utility of the information produced by this tool. If you have questions about the information produced on this website, please see a health care professional. More information about NCBI's disclaimer policy is available.
