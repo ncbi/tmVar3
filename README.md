@@ -6,7 +6,7 @@ We propose tmVar 3.0: an improved variant recognition and normalization system. 
 
 - [tmVar 3.0 software](https://ftp.ncbi.nlm.nih.gov/pub/lu/tmVar3/tmVar3.tar.gz)
 - [tmVar 3.0 corpus](https://ftp.ncbi.nlm.nih.gov/pub/lu/tmVar3/tmVar3Corpus.txt)
-- [tmVar 3.0 annotation guideline](https://ftp.ncbi.nlm.nih.gov/pub/lu/tmVar3/AnnotationGuideline.docx)
+- [tmVar 3.0 annotation guideline](https://ftp.ncbi.nlm.nih.gov/pub/lu/tmVar3/AnnotationGuideline.rev.docx)
 
 # PubTator API to access tmVar 3.0
 
